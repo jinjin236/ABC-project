@@ -8,6 +8,7 @@
 
 - JavaScript
 
+- Git & Github 
 
 
 ## 🎯 목표
