@@ -1,21 +1,22 @@
-# 👋 안녕하세요! 개발자 유진입니다.
+#     녕 세 개발 진 니
 
 
 
-## 🚀 기술 스택
+##  기술  택
 
-* HTML/CSS
-* JavaScript
-* Git \& Github
+- HTML/CSS
+- JavaScript
+- Git \& Github
 
 
 
-## 🎯 목표
+##    목표
 
-* Git \& GitHub 완벽 마스터하기!
+- Git \& GitHub  벽 마스 하 
 
-## 📞 연락처
-- 이메일: hong@gmail.com  <-- [main 브랜치에서 추가한 줄]
+##     락 
+-  메 yu@outlook.kr
+-  화번호: 010-2525-2626
 
-## 🎯 목표
-- 1박 2일 만에 Git 마스터하고 팀 프로젝트 완벽 협업하기!
+##    목표
+- 1 2만에 Git 마스 하곀  로 트  벽  업 기!
